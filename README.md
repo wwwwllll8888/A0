@@ -211,7 +211,7 @@ A1 臉型資料庫：
 
 A2 眉毛資料庫：   
 
-來源：https://github.com/wwwwllll8888/A1/blob/main/README.md 
+來源：https://github.com/wwwwllll8888/A2/blob/main/README.md
 
 
 
